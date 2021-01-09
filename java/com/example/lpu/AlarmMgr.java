@@ -16,7 +16,7 @@ import android.widget.Toast;
 
 import java.util.Calendar;
 ////checking alarm manager
-
+//having fun
 public class AlarmMgr extends AppCompatActivity {
     EditText txtvw,txtvw1;
     MediaPlayer mp;
