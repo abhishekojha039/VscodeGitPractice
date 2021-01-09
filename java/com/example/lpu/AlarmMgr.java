@@ -15,6 +15,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.Calendar;
+////checking alarm manager
 
 public class AlarmMgr extends AppCompatActivity {
     EditText txtvw,txtvw1;
